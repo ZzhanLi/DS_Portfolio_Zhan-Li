@@ -8,7 +8,7 @@
 
 ## Project Background
 
-The project aimed to optimize the e-commerce landing page to increase the user conversion rate, i.e., the proportion of users deciding to purchase the company's product. We conducted an A/B test to compare the performance of the new and old landing page versions to determine whether to fully adopt the new page, continue with the old page, or extend the testing period for decision-making.
+The project's goal was to improve the e-commerce landing page's user conversion rate—that is, the percentage of people who choose to buy the business's goods. To decide whether to fully embrace the new page, stick with the old page, or prolong the testing period for decision-making, we ran an A/B test to compare the performance of the new and old landing page versions.
 
 ## Project Benefits
 
