@@ -15,7 +15,7 @@ Yelp is an online platform that allows users to search for and browse informatio
 
 The Yelp dataset is a collection of data related to businesses, reviews, users, and other interactions on the Yelp platform. The dataset includes information from several cities across the United States, covering a variety of business categories and user demographics.
 
-The purpose of this dataset is to enable researchers, data analysts, and data scientists to explore and analyze the dynamics of the Yelp platform and gain insights into user behavior, business performance, and market trends. With the increasing popularity of online review platforms like Yelp, this dataset provides a valuable resource for understanding the factors that influence customer satisfaction, business success, and platform growth.
+This dataset aims to provide insights into user behavior, business performance, and market trends by allowing researchers, data scientists, and analysts to investigate and evaluate Yelp platform dynamics. Given the growing prevalence of online review sites such as Yelp, this dataset is an invaluable tool for comprehending the variables influencing consumer happiness, company performance, and platform expansion.
 
 In addition, the Yelp dataset is a widely used benchmark dataset for evaluating the performance of machine learning algorithms, particularly in the areas of natural language processing, sentiment analysis, and recommendation systems. By providing a large and diverse dataset that reflects real-world interactions and behaviors, the Yelp dataset allows researchers to develop and test new algorithms and models that can be applied to other online platforms and domains.
 
@@ -29,7 +29,7 @@ Data Link: https://drive.google.com/drive/folders/1IjAxEdUHANtt-gs9AuF-hoKSQv8bx
 
 
 
-This dataset is a subset of Yelp's businesses, reviews, and user data. It was originally put together for the Yelp Dataset Challenge which is a chance for students to conduct research or analysis on Yelp's data and share their discoveries. In the most recent dataset you'll find information about businesses across 8 metropolitan areas in the USA and Canada.
+A portion of Yelp's user, business, and review data are included in this dataset. It was initially created for the Yelp Dataset Challenge, an opportunity for students to use Yelp's data for research or analysis and then report what they find. You may find details about companies in eight major American and Canadian cities in the most recent dataset.
 
 
 
@@ -141,7 +141,7 @@ In the Yelp data analysis project, you need to clean, transform, aggregate and a
 
 ### Business analysis skills
 
-In the Yelp data analysis project, you need to analyze the data from different perspectives, such as the platform, users, and merchants, to understand the operational status of the Yelp platform. For example, you can analyze user reviews for different types of restaurants to understand the popularity of different types of restaurants on Yelp; you can also analyze merchant feedback to understand their satisfaction with Yelp's services and use their feedback to improve the platform.
+To comprehend the Yelp platform's operating state, you need to examine the data in the project from several angles, including those of the platform, users, and merchants. For instance, you may examine user evaluations of various restaurant categories to determine which restaurant categories are the most popular on Yelp. You can also examine merchant comments to determine how satisfied they are with Yelp's services and utilize their input to make the platform better.
 
 ### Programming skills
 
@@ -149,7 +149,7 @@ In the Yelp data analysis project, you need to use programming languages to proc
 
 ### Visualization skills
 
-In the Yelp data analysis project, you need to use visualization tools to display the analysis results to non-technical stakeholders. For example, you can use tools such as Tableau, Power BI to perform visualization analysis, and create charts such as bar charts, scatterplots, line charts, and heatmaps to show the results of Yelp data analysis.
+You must employ visualization tools in the Yelp data analysis project to show non-technical stakeholders the analysis results. To display the outcomes of the Yelp data analysis, for instance, you can make charts using bar charts, scatterplots, line charts, and heatmaps using programs like Tableau and Power BI.
 
 ### Teamwork skills
 
