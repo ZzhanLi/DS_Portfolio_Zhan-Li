@@ -30,7 +30,7 @@
 
 **Sentiment Analysis for Enhanced Business Ratings**
 
-- Leveraged Python to conduct sentiment analysis on a massive corpus of 5.26 million reviews, employing cutting-edge feature vectorization and advanced text mining techniques.
+- Oversaw the coordination of the integration of large and varied datasets from six separate sources, including data on 1.32 million users, Yelp reviews, platform check-ins, and business estimates.
 - Implemented data-driven adjustments to business star ratings based on sentiment analysis results, leading to an impressive 17% lift in rating precision.
 - Enabled businesses to gain a deeper understanding of customer sentiment and make data-backed decisions to improve user experiences.
 
