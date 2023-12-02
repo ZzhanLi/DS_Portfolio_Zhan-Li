@@ -16,7 +16,7 @@ Through this A/B test, we achieved significant outcomes:
 
 - User Experience Enhancement: We worked collaboratively with peers and under the guidance of our professor to rapidly design and execute high-quality split tests. Through data-driven design, we successfully optimized the user interface, improving the user experience.
 - Increase in User Conversion Rate: We conducted a series of A/B test experiments to validate the impact of UI improvements on user preferences, resulting in a 12 basis point increase in the product usage rate.
-- Accurate Launch Probability Assessment: We developed and fine-tuned a sophisticated Logistic Regression model to assess the probability of successfully launching the UI changes. Leveraging various user-specific and historical engagement factors, we made accurate predictions.
+- Accurate Launch Probability Assessment: To determine the likelihood of effectively releasing the UI modifications, we created and optimized an intricate Logistic Regression model. We were able to make precise forecasts by utilizing a variety of user-specific and historical interaction factors.
 - Data-Driven Decision-Making: By interpreting model results, we provided in-depth customer insights, enabling data-driven decision-making for product development and marketing strategies. This facilitated strategic discussions on the UI change launch.
 
 ## Project Progress
@@ -44,7 +44,7 @@ Project highlights and challenges encompassed:
 - Holistic Analysis: Our project employed a holistic approach to assess the impact of a new web page on user conversion rates. We combined probability-based analysis, A/B testing, and regression modeling to gain a comprehensive understanding of user behavior.
 - A/B Testing Rigor: Our A/B testing approach was rigorous and followed industry best practices. We formulated clear hypotheses, simulated user groups, and calculated p-values to determine the statistical significance of our findings.
 - Data-Driven Decision-Making: By interpreting regression results, we provided data-driven insights that empowered product development and marketing teams to make informed decisions regarding UI changes and user engagement strategies.
-- Result-Oriented Approach: We adopted a result-oriented approach, demonstrated by our significant improvements in product usage rate and operational efficiency, showcasing the impact of data science on business outcomes.
+- Result-Oriented Approach: We took a results-driven strategy, as seen by our notable increases in operational effectiveness and product utilization rate, which highlight the influence of data science on business outcomes.
 
 ## Solutions 
 
