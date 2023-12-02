@@ -6,13 +6,13 @@
 
 ## Background
 
-> The investment funds of Yu'ebao are mainly used to purchase short-term, low-risk money market funds. These funds mainly invest in low-risk investment instruments such as government bonds, central bank bills, and bank deposits. Therefore, the risk is relatively low, making it suitable for users who have short-term capital management needs and are more conservative in their investment preferences.
->
+> Buying short-term, low-risk money market funds is the primary usage of Yu'ebao's investing funds. These funds primarily make investments in low-risk financial securities such as bank deposits, government bonds, and central bank bills. Because of its minimal risk, it is appropriate for customers with short-term capital management needs and more conservative investment preferences.
+
 > The main source of income for Yu'ebao comes from the money market fund it invests in. Investors can check their daily earnings through the Alipay app and withdraw funds to their Alipay account at any time for use. However, it should be noted that since money market funds are market investments, their returns are not stable and may be affected by factors such as market interest rates and economic conditions, which pose certain investment risks. When using Yu'ebao, investors should carefully understand the product's risk and return characteristics, and make wise investment decisions based on their own risk tolerance and investment goals. At the same time, the earnings of Yu'ebao are also subject to regulatory policies and product regulations, and investors should pay close attention to changes in relevant policies and regulations.
 
 ### Project Overview
 
-Ant Financial Services Group (AFSG) manages the cash inflow and outflow of millions of members. Accurately predicting future cash flows based on historical data is vital to AFSG's operations. This project aims to leverage machine learning techniques to forecast future cash flows by analyzing users' historical purchase and redemption data. The insights gained will empower AFSG to enhance its funds management capabilities, ensuring efficient cash flow management.
+Millions of members' cash inflows and outflows are managed by Ant Financial Services Group (AFSG). Accurately predicting future cash flows based on historical data is vital to AFSG's operations. Through an analysis of consumers' past purchase and redemption data, this initiative seeks to estimate future cash flows by utilizing machine learning techniques. With the newfound knowledge, AFSG will be able to improve its money management skills and guarantee effective cash flow management.
 
 ### Project Objectives
 
