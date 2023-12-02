@@ -6,7 +6,7 @@
 
 ## Background
 
-This project aims to enhance the user experience and satisfaction in news reading by developing a personalized news recommendation system. With the vast amount of news content available online, users often struggle to find news that is relevant to their interests. Therefore, building an efficient and accurate news recommendation system is crucial for improving user engagement and loyalty.
+The goal of this project is to create a tailored news recommendation system that will improve the reading experience and happiness of users. Users frequently struggle to obtain news that is relevant to their interests due to the abundance of news information available online. Thus, increasing user engagement and loyalty requires creating an accurate and effective news recommendation system.
 
 To address this challenge, a news recommendation system challenge was organized. The challenge provided participants with a dataset of real user browsing behavior, including the text content, timestamp, and category of news articles. 
 
@@ -18,10 +18,10 @@ The core purpose of building a news recommendation system is to improve the user
 
 To provide a more detailed explanation, many news media websites and applications now offer news recommendation services that use artificial intelligence and machine learning algorithms to analyze user browsing history, interests, and behaviors in order to recommend news articles that best match their interests and preferences. Here are a few examples:
 
-- Suppose a user frequently browses and clicks on sports news articles. The news recommendation system may then recommend more sports-related articles based on this information, such as the latest football match reports or news about sports stars. This makes it easier for users to find the content that they are interested in, improving their satisfaction and loyalty.
+- Let's say a user clicks and browses sports news articles on a regular basis. Based on this data, the news recommendation algorithm might then suggest other sports-related content, such news about sports celebrities or the most recent updates on football matches. Users will be more satisfied and devoted as a result of finding the material they are interested in more easily.
 - Another example is that if a user consistently browses health and wellness articles, the news recommendation system may recommend more articles related to health, nutrition, and wellness. This enables users to easily find the information they need, while also learning more about health and wellness.
 
-Through these examples, we can see that the core purpose of a news recommendation system is to provide personalized and accurate news recommendation services to users in order to improve their reading experience and satisfaction, while also increasing user traffic and revenue for news media.
+The examples above demonstrate how the main goal of a news recommendation system is to offer customers accurate and individualized recommendations so they may read more and be more satisfied with what they read, while simultaneously driving more traffic and revenue for news outlets.
 
 ### Challenge
 
@@ -394,7 +394,7 @@ Disadvantages:
 
 Description: DIN (Deep Interest Network) is a deep learning model designed for recommendation systems that can effectively capture user interest and item features in real-time, and has been widely used in the industry.
 
-Core principle: The core idea of DIN is to use an attention mechanism to dynamically model user interests based on their historical behavior and the features of items they have interacted with. Specifically, it first generates a user interest vector by attending to the item features that the user has interacted with, and then combines this vector with the user's historical behavior features to obtain the final prediction.
+Core principle: The fundamental concept of DIN is to dynamically model user interests based on past behavior and the characteristics of items they have interacted with, using an attention mechanism. In particular, by paying attention to the item features that the user has engaged with, it first creates a user interest vector. This vector is then combined with the user's past behavior features to get the final forecast.
 
 Features:
 
